@@ -20,3 +20,4 @@ def find_prob():
 
 for each_test in range(num_tests):
 	find_prob()
+
